@@ -2,6 +2,10 @@
 
 Welcome to the official landing page repository for **TEDxCUSAT**, featuring this year's theme: **Kaleidoscope**.
 
+## 🌐 Live Demo
+
+[View Website](https://tedx-cusat.vercel.app)
+
 ## 🌟 About the Project
 
 This project is a modern, responsive single-page static website designed to capture the essence of shifting perspectives, brilliant ideas, and profound conversations. Built with beautiful aesthetics, smooth animations, and engaging micro-interactions, the landing page serves as the primary digital front door for the event.
@@ -42,4 +46,4 @@ The Kaleidoscope design language consists of an ultra-dark canvas pierced by fou
 *   🔴 **TED Red** (`#e62b1e`) - Accurately preserved for official branding and primary action elements.
 
 ---
-> *x = independently organized TED event. This independent TEDx event is operated under license from TED.*
+
