@@ -32,14 +32,6 @@ TEDx CUSAT/
 └── readme.md         # Documentation
 ```
 
-## 💻 Running the Project Locally
-
-Since the project uses vanilla web languages with no build step, getting it running is fast and straightforward:
-
-1. Clone or download this repository.
-2. Navigate to the project folder.
-3. Open `index.html` directly in any modern web browser or use a local development server (like VS Code's "Live Server" extension) for auto-reloading during edits.
-
 ## 🎨 Design System
 
 The Kaleidoscope design language consists of an ultra-dark canvas pierced by four dominant vibrant gradients:
